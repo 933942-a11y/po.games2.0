@@ -1351,7 +1351,7 @@
   },
   {
     "name": "Escape Road 2",
-    "src": "https://cdn.jsdelivr.net/gh/freebuisness/html@main/265.html",
+    "src": "https://cdn.jsdelivr.net/gh/freebuisness/html@main/265-fix.html",
     "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/265.png",
     "description": "Game Active"
   },
@@ -1803,6 +1803,30 @@
     "name": "Suika Game",
     "src": "https://cdn.jsdelivr.net/gh/freebuisness/html@main/766.html",
     "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main/766.png",
+    "description": "Game Active"
+  },
+  {
+    "name": "Escape Road 3",
+    "src": "https://cdn.jsdelivr.net/gh/freebuisness/html@latest/792.html",
+    "image": "https://cdn.jsdelivr.net/gh/freebuisness/html@latest/792.png",
+    "description": "Game Active"
+  },
+  {
+    "name": "UvuvwevwevweOnyetenvewveUgwemubwemOssas",
+    "src": "https://cdn.jsdelivr.net/gh/freebuisness/html@latest/795.html",
+    "image": "https://cdn.jsdelivr.net/gh/freebuisness/html@latest/795.png",
+    "description": "Game Active"
+  },
+  {
+    "name": "Slendytubbies 1",
+    "src": "https://cdn.jsdelivr.net/gh/freebuisness/html@latest/796.html",
+    "image": "https://cdn.jsdelivr.net/gh/freebuisness/html@latest/796.png",
+    "description": "Game Active"
+  },
+  {
+    "name": "Volley Random",
+    "src": "https://cdn.jsdelivr.net/gh/freebuisness/html@latest/786.html",
+    "image": "https://cdn.jsdelivr.net/gh/freebuisness/html@latest/786.png",
     "description": "Game Active"
   }
 ]
