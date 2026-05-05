@@ -1824,6 +1824,18 @@
     "description": "Game Active"
   },
   {
+    "name": "Bee Swarm Simulator",
+    "src": "https://cdn.jsdelivr.net/gh/tuffzinc/bssflint@latest/singlefile.html",
+    "image": "https://cdn.jsdelivr.net/gh/tuffzinc/bssflint@latest/icon-image.png",
+    "description": "Game Active"
+  },
+  {
+    "name": "My Dictator Stallin Can't Be This Cute",
+    "src": "https://cdn.jsdelivr.net/gh/tuffzinc/mdscbtc-singlefile@latest/index.html",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNbjkx2kfIcSvSWVs3K8WNrMObyCbnhv_qs-E61zhbS9uonlFgflQ7XfBcWA&s",
+    "description": "Game Active"
+  },
+  {
     "name": "Volley Random",
     "src": "https://cdn.jsdelivr.net/gh/freebuisness/html@latest/786.html",
     "image": "https://cdn.jsdelivr.net/gh/freebuisness/covers@latest/786.png",
