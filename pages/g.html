@@ -303,6 +303,8 @@ const BATCH_SIZE = 65;
 let currentIframe = null;
 
 function createFreshIframe() {
+    iframe.allow = 'autoplay; fullscreen; gamepad; accelerometer; gyroscope; pointer-lock; microphone';
+
   iframeContainer.innerHTML = '';
   const iframe = document.createElement('iframe');
   iframe.allow = 'autoplay; fullscreen; gamepad; accelerometer; gyroscope; pointer-lock; microphone';
