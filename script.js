@@ -5,7 +5,7 @@ const DEFAULT_WISP = window.SITE_CONFIG?.defaultWisp ?? localWispUrl;
 const WISP_SERVERS = [
     { name: "Wisp 1", url: "wss://glseries.net/wisp/" },
     { name: "Wisp 2", url: "wss://wisp.rhw.one/wisp/" },
-        { name: "Wisp 3", url: "wss://incog.works/wisp/" },
+        { name: "Wisp 3", url: "wss://anura.pro/" },
         { name: "Wisp 4", url: "wss://lunarrr.eminescusm.ro/w/" },
         { name: "Wisp 5", url: "wss://dash.goip.de/wisp/" }
 ];
